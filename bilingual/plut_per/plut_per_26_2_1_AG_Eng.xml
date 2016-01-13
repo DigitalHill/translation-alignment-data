@@ -1,0 +1,96 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>ὁποτέρῳ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>δ᾽</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>οὖν</text>
+            </w>
+            <w n="1-4">
+                <text>ἐχρήσατο</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-5">
+                <text>τῶν</text>
+            </w>
+            <w n="1-6">
+                <text>λογισμῶν</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>ἁμαρτεῖν</text>
+                <refs nrefs="1-8 1-9 1-10 1-11 1-12"/>
+            </w>
+            <w n="1-8">
+                <text>ἔδοξε</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-9">
+                <text>.</text>
+                <refs nrefs="1-13"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>But</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>whichever</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>design</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-4">
+                <text>he</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>cherished</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>he</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>seems</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-8">
+                <text>to</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-9">
+                <text>have</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>made</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-11">
+                <text>a</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-12">
+                <text>mistake</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-13">
+                <text>.</text>
+                <refs nrefs="1-9"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

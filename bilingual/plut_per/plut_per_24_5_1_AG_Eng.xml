@@ -1,0 +1,135 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>φαίνεται</text>
+                <refs nrefs="1-9 1-10 1-11 1-12"/>
+            </w>
+            <w n="1-2">
+                <text>μέντοι</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>μᾶλλον</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-4">
+                <text>ἐρωτική</text>
+                <refs nrefs="1-14 1-16"/>
+            </w>
+            <w n="1-5">
+                <text>τις</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-6">
+                <text>ἡ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-7">
+                <text>τοῦ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>Περικλέους</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>ἀγάπησις</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-10">
+                <text>γενομένη</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-11">
+                <text>πρὸς</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-12">
+                <text>Ἀσπασίαν</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-13">
+                <text>.</text>
+                <refs nrefs="1-18"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>However</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>the</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-3">
+                <text>affection</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-4">
+                <text>which</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-5">
+                <text>Pericles</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>had</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-7">
+                <text>for</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-8">
+                <text>Aspasia</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-9">
+                <text>seems</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-10">
+                <text>to</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-11">
+                <text>have</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-12">
+                <text>been</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-13">
+                <text>rather</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-14">
+                <text>of</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-15">
+                <text>an</text>
+            </w>
+            <w n="1-16">
+                <text>amatory</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-17">
+                <text>sort</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-18">
+                <text>.</text>
+                <refs nrefs="1-13"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

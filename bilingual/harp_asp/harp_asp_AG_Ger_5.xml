@@ -1,0 +1,184 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="deu"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>δοκεῖ</text>
+                <refs nrefs="1-2 1-3 1-4"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>καὶ</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-4">
+                <text>ἐξ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>αὐτῆς</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-6">
+                <text>ἐσχηκέναι</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-7">
+                <text>ὁ</text>
+            </w>
+            <w n="1-8">
+                <text>Περικλῆς</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>τὸν</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-10">
+                <text>ὁμώνυμον</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-11">
+                <text>αὐτῷ</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-12">
+                <text>Περικλέα</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-13">
+                <text>τὸν</text>
+            </w>
+            <w n="1-14">
+                <text>νόθον</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-15">
+                <text>ὡς</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-16">
+                <text>ἐμφαίνει</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-17">
+                <text>καὶ</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-18">
+                <text>Εὔπολις</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-19">
+                <text>ἐν</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-20">
+                <text>τοῖς</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-21">
+                <text>Δήμοις</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-22">
+                <text>.</text>
+                <refs nrefs="1-22"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>Und</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>es</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>scheint</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>dass</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-5">
+                <text>Perikles</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>mit</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>ihr</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-8">
+                <text>zusammen</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-9">
+                <text>sogar</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-10">
+                <text>den</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>gleichnamigen</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-12">
+                <text>Bastard</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-13">
+                <text>Perikles</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-14">
+                <text>hatte</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-15">
+                <text>wie</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-16">
+                <text>schon</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-17">
+                <text>Eupolis</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-18">
+                <text>in</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-19">
+                <text>seinen</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-20">
+                <text>Demen</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-21">
+                <text>sagt</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-22">
+                <text>.</text>
+                <refs nrefs="1-22"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

@@ -1,0 +1,132 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>οἱ</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>πάλιν</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>Περικλέα</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>προχειρισάμενοι</text>
+                <refs nrefs="1-4 1-6"/>
+            </w>
+            <w n="1-6">
+                <text>στρατηγὸν</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>ἐξέπεμψαν</text>
+                <refs nrefs="1-9 1-10"/>
+            </w>
+            <w n="1-8">
+                <text>ἐπὶ</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-9">
+                <text>τοὺς</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-10">
+                <text>Σαμίους</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-11">
+                <text>μετὰ</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-12">
+                <text>νεῶν</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-13">
+                <text>ἑξήκοντα</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-17"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>The</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>Athenians</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>again</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>chose</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>Pericles</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>as</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>general</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>and</text>
+            </w>
+            <w n="1-9">
+                <text>dispatched</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>him</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-11">
+                <text>against</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-12">
+                <text>the</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-13">
+                <text>Samians</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-14">
+                <text>with</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-15">
+                <text>sixty</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-16">
+                <text>ships</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-17">
+                <text>.</text>
+                <refs nrefs="1-14"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

@@ -1,0 +1,139 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="lat"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>κολάσας</text>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>τοὺς</text>
+            </w>
+            <w n="1-4">
+                <text>αἰτίους</text>
+            </w>
+            <w n="1-5">
+                <text>ἐπράξατο</text>
+            </w>
+            <w n="1-6">
+                <text>τοὺς</text>
+            </w>
+            <w n="1-7">
+                <text>Σαμίους</text>
+            </w>
+            <w n="1-8">
+                <text>τὰς</text>
+            </w>
+            <w n="1-9">
+                <text>εἰς</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-10">
+                <text>τὴν</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-11">
+                <text>πολιορκίαν</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-12">
+                <text>γεγενημένας</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-13">
+                <text>δαπάνας</text>
+            </w>
+            <w n="1-14">
+                <text>τιμησάμενος</text>
+            </w>
+            <w n="1-15">
+                <text>αὐτὰς</text>
+            </w>
+            <w n="1-16">
+                <text>ταλάντων</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-17">
+                <text>διακοσίων</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-18">
+                <text>.</text>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>in</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-2">
+                <text>quo</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-3">
+                <text>oppido</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-4">
+                <text>oppugnando</text>
+            </w>
+            <w n="1-5">
+                <text>superiore</text>
+            </w>
+            <w n="1-6">
+                <text>bello</text>
+            </w>
+            <w n="1-7">
+                <text>Athenienses</text>
+            </w>
+            <w n="1-8">
+                <text>mille</text>
+            </w>
+            <w n="1-9">
+                <text>et</text>
+            </w>
+            <w n="1-10">
+                <text>ducenta</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-11">
+                <text>talenta</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-12">
+                <text>consumpserant</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-13">
+                <text>id</text>
+            </w>
+            <w n="1-14">
+                <text>ille</text>
+            </w>
+            <w n="1-15">
+                <text>sine</text>
+            </w>
+            <w n="1-16">
+                <text>ulla</text>
+            </w>
+            <w n="1-17">
+                <text>publica</text>
+            </w>
+            <w n="1-18">
+                <text>impensa</text>
+            </w>
+            <w n="1-19">
+                <text>populo</text>
+            </w>
+            <w n="1-20">
+                <text>restituit</text>
+            </w>
+            <w n="1-21">
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

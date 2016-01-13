@@ -1,0 +1,213 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="grc"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>τῶν</text>
+            </w>
+            <w n="1-2">
+                <text>δἐ</text>
+            </w>
+            <w n="1-3">
+                <text>μεταφορῶν</text>
+            </w>
+            <w n="1-4">
+                <text>τεττάρων</text>
+            </w>
+            <w n="1-5">
+                <text>οὐσῶν</text>
+            </w>
+            <w n="1-6">
+                <text>εὐδοκιμοῦσι</text>
+            </w>
+            <w n="1-7">
+                <text>μάλιστα</text>
+            </w>
+            <w n="1-8">
+                <text>αἰ</text>
+            </w>
+            <w n="1-9">
+                <text>κατ᾽</text>
+            </w>
+            <w n="1-10">
+                <text>ἀναλογίαν</text>
+            </w>
+            <w n="1-11">
+                <text>ὥσπερ</text>
+            </w>
+            <w n="1-12">
+                <text>Περικλες</text>
+            </w>
+            <w n="1-13">
+                <text>ἔφη</text>
+            </w>
+            <w n="1-14">
+                <text>τὴν</text>
+            </w>
+            <w n="1-15">
+                <text>νεότητα</text>
+            </w>
+            <w n="1-16">
+                <text>τὴν</text>
+            </w>
+            <w n="1-17">
+                <text>ἀπολομένην</text>
+            </w>
+            <w n="1-18">
+                <text>ἐν</text>
+            </w>
+            <w n="1-19">
+                <text>τῷ</text>
+            </w>
+            <w n="1-20">
+                <text>πολέμῳ</text>
+            </w>
+            <w n="1-21">
+                <text>οὕτος</text>
+            </w>
+            <w n="1-22">
+                <text>ἠφανίσθαι</text>
+            </w>
+            <w n="1-23">
+                <text>ἐκ</text>
+            </w>
+            <w n="1-24">
+                <text>τῆς</text>
+            </w>
+            <w n="1-25">
+                <text>πόλεως</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-26">
+                <text>ὥσπερ</text>
+            </w>
+            <w n="1-27">
+                <text>εἴ</text>
+            </w>
+            <w n="1-28">
+                <text>τις</text>
+            </w>
+            <w n="1-29">
+                <text>τὸ</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-30">
+                <text>ἔαρ</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-31">
+                <text>ἐκ</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-32">
+                <text>τοῦ</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-33">
+                <text>ἐνιαυτοῦ</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-34">
+                <text>ἐξέλοι</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-35">
+                <text>.</text>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>ἐπεὶ</text>
+            </w>
+            <w n="1-2">
+                <text>τοίνυν</text>
+            </w>
+            <w n="1-3">
+                <text>οὐδὲν</text>
+            </w>
+            <w n="1-4">
+                <text>ὑπιέντες</text>
+            </w>
+            <w n="1-5">
+                <text>ἔχειν</text>
+            </w>
+            <w n="1-6">
+                <text>τὸ</text>
+            </w>
+            <w n="1-7">
+                <text>πᾶν</text>
+            </w>
+            <w n="1-8">
+                <text>ἐθέλετε</text>
+            </w>
+            <w n="1-9">
+                <text>οὐκ</text>
+            </w>
+            <w n="1-10">
+                <text>ἂν</text>
+            </w>
+            <w n="1-11">
+                <text>φθάνοιτε</text>
+            </w>
+            <w n="1-12">
+                <text>τὴν</text>
+            </w>
+            <w n="1-13">
+                <text>ταχίστην</text>
+            </w>
+            <w n="1-14">
+                <text>ὀπίσω</text>
+            </w>
+            <w n="1-15">
+                <text>ἀπαλλασσόμενοι</text>
+            </w>
+            <w n="1-16">
+                <text>καὶ</text>
+            </w>
+            <w n="1-17">
+                <text>ἀγγέλλοντες</text>
+            </w>
+            <w n="1-18">
+                <text>τῇ</text>
+            </w>
+            <w n="1-19">
+                <text>Ἑλλάδι</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-20">
+                <text>ὅτι</text>
+            </w>
+            <w n="1-21">
+                <text>ἐκ</text>
+                <refs nrefs="1-31"/>
+            </w>
+            <w n="1-22">
+                <text>τοῦ</text>
+                <refs nrefs="1-32"/>
+            </w>
+            <w n="1-23">
+                <text>ἐνιαυτοῦ</text>
+                <refs nrefs="1-33"/>
+            </w>
+            <w n="1-24">
+                <text>τὸ</text>
+                <refs nrefs="1-29"/>
+            </w>
+            <w n="1-25">
+                <text>ἔαρ</text>
+                <refs nrefs="1-30"/>
+            </w>
+            <w n="1-26">
+                <text>αὐτῇ</text>
+            </w>
+            <w n="1-27">
+                <text>ἐξαραίρηται</text>
+                <refs nrefs="1-34"/>
+            </w>
+            <w n="1-28">
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

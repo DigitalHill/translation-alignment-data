@@ -1,0 +1,135 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἐν</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>ταῖς</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>κωμῳδίαις</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>Ὀμφάλη</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-6">
+                <text>τε</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>νέα</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-8">
+                <text>καὶ</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-9">
+                <text>Δηϊάνειρα</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-10">
+                <text>καὶ</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-11">
+                <text>πάλιν</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-12">
+                <text>Ἥρα</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-13">
+                <text>προσαγορεύεται</text>
+                <refs nrefs="1-5 1-6 1-7"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-17"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>But</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>in</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>the</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>comedies</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>she</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-6">
+                <text>is</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-7">
+                <text>styled</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-8">
+                <text>now</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>the</text>
+            </w>
+            <w n="1-10">
+                <text>New</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-11">
+                <text>Omphale</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-12">
+                <text>now</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-13">
+                <text>Deianeira</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-14">
+                <text>and</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-15">
+                <text>now</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-16">
+                <text>Hera</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-17">
+                <text>.</text>
+                <refs nrefs="1-14"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

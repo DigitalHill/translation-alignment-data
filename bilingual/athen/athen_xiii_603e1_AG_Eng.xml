@@ -1,0 +1,132 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Ἴων</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-2">
+                <text>γοῦν</text>
+                <refs nrefs="1-1 1-2 1-3"/>
+            </w>
+            <w n="1-3">
+                <text>ὁ</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>ποιητὴς</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>ἐν</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>ταῖς</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-7">
+                <text>ἐπιγραφομέναις</text>
+                <refs nrefs="1-11 1-12 1-13 1-14 1-15 1-16"/>
+            </w>
+            <w n="1-8">
+                <text>Ἐπιδημίαις</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-9">
+                <text>γράφει</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>οὕτως</text>
+                <refs nrefs="1-17 1-18"/>
+            </w>
+            <w n="1-11">
+                <text>·</text>
+                <refs nrefs="1-19"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>At</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>least</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>then</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>Ion</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-5">
+                <text>the</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>poet</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>writes</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-8">
+                <text>in</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>the</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-10">
+                <text>Epidemia</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-11">
+                <text>that</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-12">
+                <text>he</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-13">
+                <text>claims</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-14">
+                <text>as</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-15">
+                <text>his</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-16">
+                <text>own</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-17">
+                <text>as</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-18">
+                <text>follows</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-19">
+                <text>:</text>
+                <refs nrefs="1-11"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

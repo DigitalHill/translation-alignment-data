@@ -1,0 +1,64 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἐπὶ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>τῶν</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>πάνυ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-4">
+                <text>ποθουμένων</text>
+                <refs nrefs="1-3 1-4 1-5 1-7"/>
+            </w>
+            <w n="1-5">
+                <text>.</text>
+                <refs nrefs="1-8"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>On</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>the</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>one</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>who</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>is</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>very</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>anxious</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>.</text>
+                <refs nrefs="1-5"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

@@ -1,0 +1,133 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>ὑπὸ</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>τοῦ</text>
+            </w>
+            <w n="1-4">
+                <text>Μελίσσου</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-5">
+                <text>καὶ</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>Περικλέα</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>φησὶν</text>
+                <refs nrefs="1-3 1-4"/>
+            </w>
+            <w n="1-8">
+                <text>αὐτὸν</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-9">
+                <text>Ἀριστοτέλης</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-10">
+                <text>ἡττηθῆναι</text>
+                <refs nrefs="1-6 1-9"/>
+            </w>
+            <w n="1-11">
+                <text>ναυμαχοῦντα</text>
+                <refs nrefs="1-12 1-13 1-14"/>
+            </w>
+            <w n="1-12">
+                <text>πρότερον</text>
+                <refs nrefs="1-15 1-16 1-17"/>
+            </w>
+            <w n="1-13">
+                <text>.</text>
+                <refs nrefs="1-18"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>And</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>Aristotle</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-3">
+                <text>says</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-4">
+                <text>that</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-5">
+                <text>Pericles</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>was</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-7">
+                <text>himself</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-8">
+                <text>also</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>defeated</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-10">
+                <text>by</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-11">
+                <text>Melissus</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-12">
+                <text>in</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-13">
+                <text>the</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-14">
+                <text>seafight</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-15">
+                <text>which</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-16">
+                <text>preceded</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-17">
+                <text>this</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-18">
+                <text>.</text>
+                <refs nrefs="1-13"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

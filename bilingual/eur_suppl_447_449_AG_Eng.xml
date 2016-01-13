@@ -1,0 +1,178 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>πῶς</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>οὖν</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>ἔτ᾽</text>
+            </w>
+            <w n="1-4">
+                <text>ἂν</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>γένοιτ᾽</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>ἂν</text>
+            </w>
+            <w n="1-7">
+                <text>ἰσχυρὰ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>πόλις</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>ὅταν</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-10">
+                <text>τις</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>ὡς</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-12">
+                <text>λειμῶνος</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-13">
+                <text>ἠρινοῦ</text>
+                <refs nrefs="1-22 1-23"/>
+            </w>
+            <w n="1-14">
+                <text>στάχυν</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-15">
+                <text>τόλμας</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-16">
+                <text>ἀφαιρῇ</text>
+                <refs nrefs="1-10 1-11"/>
+            </w>
+            <w n="1-17">
+                <text>κἀπολωτίζῃ</text>
+                <refs nrefs="1-15 1-16"/>
+            </w>
+            <w n="1-18">
+                <text>νέους</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-19">
+                <text>;</text>
+                <refs nrefs="1-24"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>How</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>then</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>could</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>a</text>
+            </w>
+            <w n="1-5">
+                <text>city</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>remain</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>stable</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>where</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-9">
+                <text>one</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-10">
+                <text>cuts</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-11">
+                <text>short</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-12">
+                <text>all</text>
+            </w>
+            <w n="1-13">
+                <text>enterprise</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-14">
+                <text>and</text>
+            </w>
+            <w n="1-15">
+                <text>mows</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-16">
+                <text>down</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-17">
+                <text>the</text>
+            </w>
+            <w n="1-18">
+                <text>young</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-19">
+                <text>like</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-20">
+                <text>meadow</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-21">
+                <text>flowers</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-22">
+                <text>in</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-23">
+                <text>springtime</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-24">
+                <text>?</text>
+                <refs nrefs="1-19"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

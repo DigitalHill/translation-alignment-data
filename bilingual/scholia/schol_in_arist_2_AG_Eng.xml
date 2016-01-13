@@ -1,0 +1,119 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Τῶν</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-2">
+                <text>δέκα</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-3">
+                <text>στρατηγῶν</text>
+                <refs nrefs="1-6 1-9"/>
+            </w>
+            <w n="1-4">
+                <text>τῶν</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-5">
+                <text>ἐν</text>
+                <refs nrefs="1-10 1-11 1-12"/>
+            </w>
+            <w n="1-6">
+                <text>Σάμῳ</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-7">
+                <text>τὰ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>ὀνόματα</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>κατ᾽</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-10">
+                <text>Ἀνδροτίωνα</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-11">
+                <text>·</text>
+                <refs nrefs="1-16"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>According</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-2">
+                <text>to</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-3">
+                <text>Androtion</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-4">
+                <text>the</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-5">
+                <text>names</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>of</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>the</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-8">
+                <text>ten</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-9">
+                <text>generals</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-10">
+                <text>in</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-11">
+                <text>the</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-12">
+                <text>time</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-13">
+                <text>of</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-14">
+                <text>Samos</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-15">
+                <text>are</text>
+            </w>
+            <w n="1-16">
+                <text>:</text>
+                <refs nrefs="1-11"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

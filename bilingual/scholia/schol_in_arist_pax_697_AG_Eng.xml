@@ -1,0 +1,115 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Λέγεται</text>
+                <refs nrefs="1-2 1-4"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>καὶ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>ὅτι</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>ἐκ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>τῆς</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>στρατηγίας</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-8">
+                <text>τῆς</text>
+            </w>
+            <w n="1-9">
+                <text>ἐν</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>Σάμῳ</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-11">
+                <text>ἠργυρίσατο</text>
+                <refs nrefs="1-11 1-12 1-13"/>
+            </w>
+            <w n="1-12">
+                <text>.</text>
+                <refs nrefs="1-14"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>And</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>he</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>even</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>said</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-5">
+                <text>that</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>from</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>the</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>campaign</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-9">
+                <text>in</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>Samos</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-11">
+                <text>money</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-12">
+                <text>was</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-13">
+                <text>extorted</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-12"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

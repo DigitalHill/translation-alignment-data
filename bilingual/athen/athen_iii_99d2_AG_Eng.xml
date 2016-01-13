@@ -1,0 +1,87 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>θάρσει</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-2">
+                <text>μέγας</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-3">
+                <text>σοι</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>τοῦδ᾽</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-5">
+                <text>ἐγὼ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>φόβου</text>
+                <refs nrefs="1-8 1-10"/>
+            </w>
+            <w n="1-7">
+                <text>μοχλός</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>.</text>
+                <refs nrefs="1-11"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Have</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>courage</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>I</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>am</text>
+            </w>
+            <w n="1-5">
+                <text>thy</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>mighty</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-7">
+                <text>bar</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>against</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>this</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-10">
+                <text>fear</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-11">
+                <text>.</text>
+                <refs nrefs="1-8"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

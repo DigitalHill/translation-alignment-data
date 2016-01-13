@@ -1,0 +1,189 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>δοκεῖ</text>
+                <refs nrefs="1-2 1-3 1-5"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>καὶ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>τὸν</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-5">
+                <text>νόθον</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-6">
+                <text>ἐκ</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>ταύτης</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-8">
+                <text>τεκνῶσαι</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-9">
+                <text>περὶ</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-10">
+                <text>οὗ</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-11">
+                <text>πεποίηκεν</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-12">
+                <text>Εὔπολις</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-13">
+                <text>ἐν</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-14">
+                <text>Δήμοις</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-15">
+                <text>αὐτὸν</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-16">
+                <text>μὲν</text>
+            </w>
+            <w n="1-17">
+                <text>οὕτως</text>
+                <refs nrefs="1-23 1-24 1-25"/>
+            </w>
+            <w n="1-18">
+                <text>ἐρωτῶντα</text>
+                <refs nrefs="1-21 1-22"/>
+            </w>
+            <w n="1-19">
+                <text>·</text>
+                <refs nrefs="1-26"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>And</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>it</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>appears</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>also</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>that</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-6">
+                <text>he</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>begat</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-8">
+                <text>from</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>her</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>that</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-11">
+                <text>bastard</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-12">
+                <text>son</text>
+            </w>
+            <w n="1-13">
+                <text>about</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-14">
+                <text>whom</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-15">
+                <text>Eupolis</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-16">
+                <text>in</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-17">
+                <text>his</text>
+            </w>
+            <w n="1-18">
+                <text>Demes</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-19">
+                <text>represented</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-20">
+                <text>him</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-21">
+                <text>as</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-22">
+                <text>inquiring</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-23">
+                <text>with</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-24">
+                <text>these</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-25">
+                <text>words</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-26">
+                <text>:</text>
+                <refs nrefs="1-19"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

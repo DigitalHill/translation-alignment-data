@@ -1,0 +1,39 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἀμείβετο</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>Γέλων</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>τοῖσιδε</text>
+            </w>
+            <w n="1-4">
+                <text>.</text>
+                <refs nrefs="1-3"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Gelon</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>answered</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>.</text>
+                <refs nrefs="1-4"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

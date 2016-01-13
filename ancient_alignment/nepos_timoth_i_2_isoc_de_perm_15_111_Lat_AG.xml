@@ -1,0 +1,133 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="lat"/>
+    <language lnum="L2" xml:lang="grc"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>in</text>
+            </w>
+            <w n="1-2">
+                <text>quo</text>
+            </w>
+            <w n="1-3">
+                <text>oppido</text>
+            </w>
+            <w n="1-4">
+                <text>oppugnando</text>
+            </w>
+            <w n="1-5">
+                <text>superiore</text>
+            </w>
+            <w n="1-6">
+                <text>bello</text>
+            </w>
+            <w n="1-7">
+                <text>Athenienses</text>
+            </w>
+            <w n="1-8">
+                <text>mille</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-9">
+                <text>et</text>
+            </w>
+            <w n="1-10">
+                <text>ducenta</text>
+            </w>
+            <w n="1-11">
+                <text>talenta</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-12">
+                <text>consumpserant</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-13">
+                <text>id</text>
+            </w>
+            <w n="1-14">
+                <text>ille</text>
+            </w>
+            <w n="1-15">
+                <text>sine</text>
+            </w>
+            <w n="1-16">
+                <text>ulla</text>
+            </w>
+            <w n="1-17">
+                <text>publica</text>
+            </w>
+            <w n="1-18">
+                <text>impensa</text>
+            </w>
+            <w n="1-19">
+                <text>populo</text>
+            </w>
+            <w n="1-20">
+                <text>restituit</text>
+            </w>
+            <w n="1-21">
+                <text>.</text>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>μετὰ</text>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>ταύτας</text>
+            </w>
+            <w n="1-4">
+                <text>τὰς</text>
+            </w>
+            <w n="1-5">
+                <text>πράξεις</text>
+            </w>
+            <w n="1-6">
+                <text>ἐπὶ</text>
+            </w>
+            <w n="1-7">
+                <text>Σάμον</text>
+            </w>
+            <w n="1-8">
+                <text>στρατεύσας</text>
+            </w>
+            <w n="1-9">
+                <text>ἣν</text>
+            </w>
+            <w n="1-10">
+                <text>Περικλῆς</text>
+            </w>
+            <w n="1-11">
+                <text>ἀπὸ</text>
+            </w>
+            <w n="1-12">
+                <text>διακοσίων</text>
+            </w>
+            <w n="1-13">
+                <text>νεῶν</text>
+            </w>
+            <w n="1-14">
+                <text>καὶ</text>
+            </w>
+            <w n="1-15">
+                <text>χιλίων</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-16">
+                <text>ταλάντων</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-17">
+                <text>κατεπολέμησε</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-18">
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

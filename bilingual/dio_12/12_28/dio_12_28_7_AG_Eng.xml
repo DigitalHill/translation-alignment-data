@@ -1,0 +1,173 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>παρείλετο</text>
+                <refs nrefs="1-1 1-3"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>καὶ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>τὰς</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>ναῦς</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-6">
+                <text>αὐτῶν</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-7">
+                <text>καὶ</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-8">
+                <text>τὰ</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-9">
+                <text>τείχη</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-10">
+                <text>κατέσκαψε</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>καὶ</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-12">
+                <text>τὴν</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-13">
+                <text>δημοκρατίαν</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-14">
+                <text>καταστήσας</text>
+                <refs nrefs="1-12 1-13 1-14"/>
+            </w>
+            <w n="1-15">
+                <text>ἐπανῆλθεν</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-16">
+                <text>εἰς</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-17">
+                <text>τὴν</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-18">
+                <text>πατρίδα</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-19">
+                <text>.</text>
+                <refs nrefs="1-22"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>He</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>also</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>took</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>from</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>them</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>their</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>ships</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-8">
+                <text>and</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-9">
+                <text>razed</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-10">
+                <text>their</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-11">
+                <text>walls</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-12">
+                <text>then</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-13">
+                <text>he</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-14">
+                <text>restored</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-15">
+                <text>the</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-16">
+                <text>democracy</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-17">
+                <text>and</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-18">
+                <text>returned</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-19">
+                <text>to</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-20">
+                <text>his</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-21">
+                <text>country</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-22">
+                <text>.</text>
+                <refs nrefs="1-19"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

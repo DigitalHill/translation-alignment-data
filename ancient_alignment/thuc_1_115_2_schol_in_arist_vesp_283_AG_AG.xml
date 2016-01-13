@@ -1,0 +1,128 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="grc"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἕκτῳ</text>
+                <refs nrefs="1-4 1-6 1-7 1-8 1-9"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>ἔτει</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>Σαμίοις</text>
+            </w>
+            <w n="1-5">
+                <text>καὶ</text>
+            </w>
+            <w n="1-6">
+                <text>Μιλησίοις</text>
+            </w>
+            <w n="1-7">
+                <text>πόλεμος</text>
+                <refs nrefs="1-1 1-2 1-3"/>
+            </w>
+            <w n="1-8">
+                <text>ἐγένετο</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-9">
+                <text>περὶ</text>
+            </w>
+            <w n="1-10">
+                <text>Πριήνης</text>
+            </w>
+            <w n="1-11">
+                <text>καὶ</text>
+            </w>
+            <w n="1-12">
+                <text>οἱ</text>
+            </w>
+            <w n="1-13">
+                <text>Μιλήσιοι</text>
+            </w>
+            <w n="1-14">
+                <text>ἐλασσούμενοι</text>
+            </w>
+            <w n="1-15">
+                <text>τῷ</text>
+            </w>
+            <w n="1-16">
+                <text>πολέμῳ</text>
+            </w>
+            <w n="1-17">
+                <text>παρ᾽</text>
+            </w>
+            <w n="1-18">
+                <text>Ἀθηναίους</text>
+            </w>
+            <w n="1-19">
+                <text>ἐλθόντες</text>
+            </w>
+            <w n="1-20">
+                <text>κατεβόων</text>
+            </w>
+            <w n="1-21">
+                <text>τῶν</text>
+            </w>
+            <w n="1-22">
+                <text>Σαμίων</text>
+            </w>
+            <w n="1-23">
+                <text>.</text>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Τὰ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-2">
+                <text>περὶ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-3">
+                <text>Σάμου</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-4">
+                <text>ἐννεακαιδεκάτῳ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-5">
+                <text>ἒτει</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>πρότερον</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-7">
+                <text>ἐπὶ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-8">
+                <text>Τιμοκλέους</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-9">
+                <text>ἂρχοντος</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-10">
+                <text>γέγονε</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-11">
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>
