@@ -1,0 +1,232 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>καὶ</text>
+            </w>
+            <w n="1-2">
+                <text>ἐκ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-3">
+                <text>τῶν</text>
+            </w>
+            <w n="1-4">
+                <text>Ἀθηνῶν</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-5">
+                <text>ὕστερον</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>προσεβοήθησαν</text>
+                <refs nrefs="1-2 1-4"/>
+            </w>
+            <w n="1-7">
+                <text>τεσσαράκοντα</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-8">
+                <text>μὲν</text>
+            </w>
+            <w n="1-9">
+                <text>αἱ</text>
+            </w>
+            <w n="1-10">
+                <text>μετὰ</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>Θουκυδίδου</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-12">
+                <text>καὶ</text>
+            </w>
+            <w n="1-13">
+                <text>Ἅγνωνος</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-14">
+                <text>καὶ</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-15">
+                <text>Φορμίωνος</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-16">
+                <text>νῆες</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-17">
+                <text>εἴκοσι</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="1-18">
+                <text>δὲ</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-19">
+                <text>αἱ</text>
+            </w>
+            <w n="1-20">
+                <text>μετὰ</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="1-21">
+                <text>Τληπολέμου</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="1-22">
+                <text>καὶ</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="1-23">
+                <text>Ἀντικλέους</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="1-24">
+                <text>ἐκ</text>
+                <refs nrefs="2-9"/>
+            </w>
+            <w n="1-25">
+                <text>δὲ</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="1-26">
+                <text>Χίου</text>
+                <refs nrefs="2-10"/>
+            </w>
+            <w n="1-27">
+                <text>καὶ</text>
+                <refs nrefs="2-11"/>
+            </w>
+            <w n="1-28">
+                <text>Λέσβου</text>
+                <refs nrefs="2-12"/>
+            </w>
+            <w n="1-29">
+                <text>τριάκοντα</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="1-30">
+                <text>.</text>
+                <refs nrefs="2-13"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Fresh</text>
+            </w>
+            <w n="1-2">
+                <text>reinforcements</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-3">
+                <text>afterwards</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>arrived</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>forty</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-6">
+                <text>ships</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-7">
+                <text>from</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-8">
+                <text>Athens</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-9">
+                <text>with</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-10">
+                <text>Thucydides</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-11">
+                <text>Hagnon</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-12">
+                <text>and</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-13">
+                <text>Phormio</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-14">
+                <text>;</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="2-1">
+                <text>twenty</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="2-2">
+                <text>with</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="2-3">
+                <text>Tlepolemus</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="2-4">
+                <text>and</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="2-5">
+                <text>Anticles</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="2-6">
+                <text>and</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="2-7">
+                <text>thirty</text>
+                <refs nrefs="1-29"/>
+            </w>
+            <w n="2-8">
+                <text>vessels</text>
+            </w>
+            <w n="2-9">
+                <text>from</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="2-10">
+                <text>Chios</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="2-11">
+                <text>and</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="2-12">
+                <text>Lesbos</text>
+                <refs nrefs="1-28"/>
+            </w>
+            <w n="2-13">
+                <text>.</text>
+                <refs nrefs="1-30"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

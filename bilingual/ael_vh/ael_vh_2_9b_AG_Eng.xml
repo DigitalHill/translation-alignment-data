@@ -1,0 +1,230 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>τούς</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-2">
+                <text>γε</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-3">
+                <text>μὴν</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-4">
+                <text>ἁλισκομένους</text>
+                <refs nrefs="1-11 1-12 1-14 1-15"/>
+            </w>
+            <w n="1-5">
+                <text>αἰχμαλώτους</text>
+            </w>
+            <w n="1-6">
+                <text>Σαμίων</text>
+                <refs nrefs="1-16 1-18"/>
+            </w>
+            <w n="1-7">
+                <text>στίζειν</text>
+                <refs nrefs="1-7 1-8"/>
+            </w>
+            <w n="1-8">
+                <text>κατὰ</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-9">
+                <text>τοῦ</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-10">
+                <text>προσώπου</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-11">
+                <text>καὶ</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-12">
+                <text>εἶναι</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-13">
+                <text>τὸ</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-14">
+                <text>στίγμα</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-15">
+                <text>γλαῦκα</text>
+                <refs nrefs="1-29"/>
+            </w>
+            <w n="1-16">
+                <text>,</text>
+            </w>
+            <w n="1-17">
+                <text>καὶ</text>
+                <refs nrefs="1-33"/>
+            </w>
+            <w n="1-18">
+                <text>τοῦτο</text>
+                <refs nrefs="1-31"/>
+            </w>
+            <w n="1-19">
+                <text>Ἀττικὸν</text>
+                <refs nrefs="1-35"/>
+            </w>
+            <w n="1-20">
+                <text>ψήφισμα</text>
+                <refs nrefs="1-36"/>
+            </w>
+            <w n="1-21">
+                <text>.</text>
+                <refs nrefs="1-37"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>At</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>least</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>they</text>
+            </w>
+            <w n="1-4">
+                <text>voted</text>
+            </w>
+            <w n="1-5">
+                <text>,</text>
+            </w>
+            <w n="1-6">
+                <text>that</text>
+            </w>
+            <w n="1-7">
+                <text>they</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>branded</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-9">
+                <text>those</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-10">
+                <text>,</text>
+            </w>
+            <w n="1-11">
+                <text>who</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-12">
+                <text>were</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-13">
+                <text>truly</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-14">
+                <text>taken</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-15">
+                <text>prisoner</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-16">
+                <text>of</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-17">
+                <text>the</text>
+            </w>
+            <w n="1-18">
+                <text>Samians</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-19">
+                <text>,</text>
+            </w>
+            <w n="1-20">
+                <text>in</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-21">
+                <text>the</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-22">
+                <text>face</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-23">
+                <text>and</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-24">
+                <text>that</text>
+            </w>
+            <w n="1-25">
+                <text>the</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-26">
+                <text>sign</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-27">
+                <text>was</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-28">
+                <text>an</text>
+            </w>
+            <w n="1-29">
+                <text>owl</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-30">
+                <text>,</text>
+            </w>
+            <w n="1-31">
+                <text>that</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-32">
+                <text>is</text>
+            </w>
+            <w n="1-33">
+                <text>also</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-34">
+                <text>an</text>
+            </w>
+            <w n="1-35">
+                <text>Athenian</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-36">
+                <text>decree</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-37">
+                <text>.</text>
+                <refs nrefs="1-21"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

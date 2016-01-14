@@ -1,0 +1,115 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Δημοποίητος</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>·</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="2-1">
+                <text>ὁ</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-2">
+                <text>ὑπὸ</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-3">
+                <text>τοῦ</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="2-4">
+                <text>δήμου</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-5">
+                <text>εἰσποιηθεὶς</text>
+                <refs nrefs="2-2 2-3 2-4"/>
+            </w>
+            <w n="2-6">
+                <text>καὶ</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-7">
+                <text>γεγονὼς</text>
+                <refs nrefs="2-9 2-10"/>
+            </w>
+            <w n="2-8">
+                <text>πολίτης</text>
+                <refs nrefs="2-12"/>
+            </w>
+            <w n="2-9">
+                <text>.</text>
+                <refs nrefs="2-13"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Demopoietos</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>:</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="2-1">
+                <text>One</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-2">
+                <text>who</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-3">
+                <text>is</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-4">
+                <text>adopted</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-5">
+                <text>by</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-6">
+                <text>the</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-7">
+                <text>demos</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="2-8">
+                <text>and</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="2-9">
+                <text>has</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-10">
+                <text>become</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-11">
+                <text>a</text>
+            </w>
+            <w n="2-12">
+                <text>citizen</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-13">
+                <text>.</text>
+                <refs nrefs="2-9"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

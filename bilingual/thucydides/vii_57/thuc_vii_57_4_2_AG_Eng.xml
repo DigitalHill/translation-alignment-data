@@ -1,0 +1,112 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>τούτων</text>
+            </w>
+            <w n="1-2">
+                <text>Χῖοι</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>οὐχ</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-4">
+                <text>ὑποτελεῖς</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-5">
+                <text>ὄντες</text>
+            </w>
+            <w n="1-6">
+                <text>φόρου</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-7">
+                <text>ναῦς</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-8">
+                <text>δὲ</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-9">
+                <text>παρέχοντες</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-10">
+                <text>αὐτόνομοι</text>
+                <refs nrefs="1-5 1-6"/>
+            </w>
+            <w n="1-11">
+                <text>ξυνέσποντο</text>
+                <refs nrefs="1-4 1-7"/>
+            </w>
+            <w n="1-12">
+                <text>.</text>
+                <refs nrefs="1-14"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>The</text>
+            </w>
+            <w n="1-2">
+                <text>Chians</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>however</text>
+            </w>
+            <w n="1-4">
+                <text>joined</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-5">
+                <text>as</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-6">
+                <text>independent</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-7">
+                <text>allies</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-8">
+                <text>paying</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-9">
+                <text>no</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-10">
+                <text>tribute</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-11">
+                <text>but</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-12">
+                <text>furnishing</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-13">
+                <text>ships</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-12"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

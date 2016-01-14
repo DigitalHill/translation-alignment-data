@@ -1,0 +1,140 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ξυνεπελάβοντο</text>
+                <refs nrefs="1-1 1-2 1-3 1-4 1-5 1-6"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>καὶ</text>
+            </w>
+            <w n="1-4">
+                <text>ἐξ</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-5">
+                <text>αὐτῆς</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-6">
+                <text>τῆς</text>
+            </w>
+            <w n="1-7">
+                <text>Σάμου</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-8">
+                <text>ἄνδρες</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-9">
+                <text>ἰδιῶται</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-10">
+                <text>νεωτερίσαι</text>
+                <refs nrefs="1-15 1-16"/>
+            </w>
+            <w n="1-11">
+                <text>βουλόμενοι</text>
+                <refs nrefs="1-13 1-14"/>
+            </w>
+            <w n="1-12">
+                <text>τὴν</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-13">
+                <text>πολιτείαν</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-19"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>In</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>this</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>they</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>were</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-5">
+                <text>joined</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-6">
+                <text>by</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-7">
+                <text>certain</text>
+            </w>
+            <w n="1-8">
+                <text>private</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-9">
+                <text>persons</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-10">
+                <text>from</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-11">
+                <text>Samos</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-12">
+                <text>itself</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-13">
+                <text>who</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-14">
+                <text>wished</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-15">
+                <text>to</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-16">
+                <text>revolutionize</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-17">
+                <text>the</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-18">
+                <text>government</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-19">
+                <text>.</text>
+                <refs nrefs="1-14"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

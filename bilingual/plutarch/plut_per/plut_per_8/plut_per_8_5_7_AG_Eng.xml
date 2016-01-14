@@ -1,0 +1,107 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>ταῦτ᾽</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>οὖν</text>
+            </w>
+            <w n="1-3">
+                <text>ὑπάρχειν</text>
+                <refs nrefs="1-2 1-3"/>
+            </w>
+            <w n="1-4">
+                <text>καὶ</text>
+            </w>
+            <w n="1-5">
+                <text>τοῖς</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>ὑπὲρ</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-7">
+                <text>τῆς</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-8">
+                <text>πατρίδος</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-9">
+                <text>ἀποθανοῦσιν</text>
+                <refs nrefs="1-4 1-6 1-7 1-8 1-9 1-10"/>
+            </w>
+            <w n="1-10">
+                <text>.</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-11">
+                <text/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>So</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>it</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>was</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>with</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-5">
+                <text>those</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>who</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-7">
+                <text>had</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-8">
+                <text>given</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-9">
+                <text>their</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>lives</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>for</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-12">
+                <text>their</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-13">
+                <text>country</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-10"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

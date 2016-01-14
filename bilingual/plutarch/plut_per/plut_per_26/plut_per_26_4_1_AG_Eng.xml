@@ -1,0 +1,141 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>οὕτω</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-2">
+                <text>δ᾽</text>
+            </w>
+            <w n="1-3">
+                <text>ὠνομάσθη</text>
+                <refs nrefs="1-1 1-2 1-4"/>
+            </w>
+            <w n="1-4">
+                <text>διὰ</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>τὸ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>πρῶτον</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-7">
+                <text>ἐν</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-8">
+                <text>Σάμῳ</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-9">
+                <text>φανῆναι</text>
+                <refs nrefs="1-7 1-8 1-10"/>
+            </w>
+            <w n="1-10">
+                <text>Πολυκράτους</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-11">
+                <text>τυράννου</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-12">
+                <text>κατασκευάσαντος</text>
+                <refs nrefs="1-17 1-18 1-19"/>
+            </w>
+            <w n="1-13">
+                <text>.</text>
+                <refs nrefs="1-20"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>It</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-2">
+                <text>got</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>this</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>name</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>because</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>it</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>made</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-8">
+                <text>its</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-9">
+                <text>first</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-10">
+                <text>appearance</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>in</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-12">
+                <text>Samos</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-13">
+                <text>where</text>
+            </w>
+            <w n="1-14">
+                <text>Polycrates</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-15">
+                <text>the</text>
+            </w>
+            <w n="1-16">
+                <text>tyrant</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-17">
+                <text>had</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-18">
+                <text>some</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-19">
+                <text>built</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-20">
+                <text>.</text>
+                <refs nrefs="1-13"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

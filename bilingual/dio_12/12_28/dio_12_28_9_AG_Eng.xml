@@ -1,0 +1,83 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>καὶ</text>
+            </w>
+            <w n="1-2">
+                <text>ταῦτα</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>μὲν</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>ἐπράχθη</text>
+                <refs nrefs="1-3 1-4 1-5"/>
+            </w>
+            <w n="1-5">
+                <text>κατὰ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>τοῦτον</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>τὸν</text>
+            </w>
+            <w n="1-8">
+                <text>ἐνιαυτόν</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>.</text>
+                <refs nrefs="1-9"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>These</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>then</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>were</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>the</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>events</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>of</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>this</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>year</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>.</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

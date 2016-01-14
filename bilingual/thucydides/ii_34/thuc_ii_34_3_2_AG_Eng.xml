@@ -1,0 +1,96 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἔνεστι</text>
+                <refs nrefs="1-6 1-7 1-8"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>τὰ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>ὀστᾶ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-5">
+                <text>ἧς</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-6">
+                <text>ἕκαστος</text>
+            </w>
+            <w n="1-7">
+                <text>ἦν</text>
+            </w>
+            <w n="1-8">
+                <text>φυλῆς</text>
+                <refs nrefs="1-11 1-13"/>
+            </w>
+            <w n="1-9">
+                <text>.</text>
+                <refs nrefs="1-14"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>the</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-2">
+                <text>bones</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-3">
+                <text>of</text>
+            </w>
+            <w n="1-4">
+                <text>the</text>
+            </w>
+            <w n="1-5">
+                <text>deceased</text>
+            </w>
+            <w n="1-6">
+                <text>being</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-7">
+                <text>placed</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-8">
+                <text>in</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-9">
+                <text>the</text>
+            </w>
+            <w n="1-10">
+                <text>coffin</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-11">
+                <text>of</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-12">
+                <text>their</text>
+            </w>
+            <w n="1-13">
+                <text>tribe</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-9"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

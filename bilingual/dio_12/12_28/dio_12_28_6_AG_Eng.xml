@@ -1,0 +1,193 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>κολάσας</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>τοὺς</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>αἰτίους</text>
+                <refs nrefs="1-4 1-5 1-6 1-7"/>
+            </w>
+            <w n="1-5">
+                <text>ἐπράξατο</text>
+                <refs nrefs="1-8 1-9 1-10"/>
+            </w>
+            <w n="1-6">
+                <text>τοὺς</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-7">
+                <text>Σαμίους</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-8">
+                <text>τὰς</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-9">
+                <text>εἰς</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-10">
+                <text>τὴν</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-11">
+                <text>πολιορκίαν</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-12">
+                <text>γεγενημένας</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-13">
+                <text>δαπάνας</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-14">
+                <text>τιμησάμενος</text>
+                <refs nrefs="1-22 1-25"/>
+            </w>
+            <w n="1-15">
+                <text>αὐτὰς</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-16">
+                <text>ταλάντων</text>
+                <refs nrefs="1-28"/>
+            </w>
+            <w n="1-17">
+                <text>διακοσίων</text>
+                <refs nrefs="1-26 1-27"/>
+            </w>
+            <w n="1-18">
+                <text>.</text>
+                <refs nrefs="1-29"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>After</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>punishing</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>the</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>ringleaders</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>of</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>the</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>revolt</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>he</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>exacted</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-10">
+                <text>of</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-11">
+                <text>the</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-12">
+                <text>Samians</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-13">
+                <text>the</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-14">
+                <text>expenses</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-15">
+                <text>incurred</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-16">
+                <text>in</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-17">
+                <text>the</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-18">
+                <text>siege</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-19">
+                <text>of</text>
+            </w>
+            <w n="1-20">
+                <text>the</text>
+            </w>
+            <w n="1-21">
+                <text>city</text>
+            </w>
+            <w n="1-22">
+                <text>fixing</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-23">
+                <text>the</text>
+            </w>
+            <w n="1-24">
+                <text>penalty</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-25">
+                <text>at</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-26">
+                <text>two</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-27">
+                <text>hundred</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-28">
+                <text>talents</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-29">
+                <text>.</text>
+                <refs nrefs="1-18"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

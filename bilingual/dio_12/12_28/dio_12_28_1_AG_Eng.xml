@@ -1,0 +1,272 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>οἱ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>Σάμιοι</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>διὰ</text>
+                <refs nrefs="1-5 1-6"/>
+            </w>
+            <w n="1-5">
+                <text>τὴν</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-6">
+                <text>ἀνάζευξιν</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>τοῦ</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-8">
+                <text>Περικλέους</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-9">
+                <text>νομίζοντες</text>
+                <refs nrefs="1-3 1-4"/>
+            </w>
+            <w n="1-10">
+                <text>ἔχειν</text>
+                <refs nrefs="1-11 1-12"/>
+            </w>
+            <w n="1-11">
+                <text>καιρὸν</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-12">
+                <text>ἐπιτήδειον</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-13">
+                <text>εἰς</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-14">
+                <text>ἐπίθεσιν</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-15">
+                <text>ταῖς</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-16">
+                <text>ἀπολελειμμέναις</text>
+                <refs nrefs="1-20 1-21 1-22 1-23 1-24"/>
+            </w>
+            <w n="1-17">
+                <text>ναυσίν</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-18">
+                <text>ἐπέπλευσαν</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-19">
+                <text>ἐπʼ</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-20">
+                <text>αὐτάς</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-21">
+                <text>καὶ</text>
+                <refs nrefs="1-28"/>
+            </w>
+            <w n="1-22">
+                <text>νικήσαντες</text>
+                <refs nrefs="1-29 1-30"/>
+            </w>
+            <w n="1-23">
+                <text>τῇ</text>
+                <refs nrefs="1-31"/>
+            </w>
+            <w n="1-24">
+                <text>ναυμαχίᾳ</text>
+                <refs nrefs="1-32"/>
+            </w>
+            <w n="1-25">
+                <text>φρονήματος</text>
+                <refs nrefs="1-38"/>
+            </w>
+            <w n="1-26">
+                <text>ἐπληροῦντο</text>
+                <refs nrefs="1-33 1-34 1-35 1-36 1-37"/>
+            </w>
+            <w n="1-27">
+                <text>.</text>
+                <refs nrefs="1-39"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>The</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>Samians</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>believing</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-4">
+                <text>that</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-5">
+                <text>because</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>of</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>the</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-8">
+                <text>departure</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>of</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>Pericles</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-11">
+                <text>they</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-12">
+                <text>had</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-13">
+                <text>a</text>
+            </w>
+            <w n="1-14">
+                <text>suitable</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-15">
+                <text>opportunity</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-16">
+                <text>to</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-17">
+                <text>attack</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-18">
+                <text>the</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-19">
+                <text>ships</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-20">
+                <text>that</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-21">
+                <text>had</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-22">
+                <text>been</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-23">
+                <text>left</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-24">
+                <text>behind</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-25">
+                <text>sailed</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-26">
+                <text>against</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-27">
+                <text>them</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-28">
+                <text>and</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-29">
+                <text>having</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-30">
+                <text>won</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-31">
+                <text>the</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-32">
+                <text>battle</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-33">
+                <text>they</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-34">
+                <text>were</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-35">
+                <text>puffed</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-36">
+                <text>up</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-37">
+                <text>with</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-38">
+                <text>pride</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-39">
+                <text>.</text>
+                <refs nrefs="1-27"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

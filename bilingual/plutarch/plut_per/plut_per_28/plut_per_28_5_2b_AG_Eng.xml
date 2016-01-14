@@ -1,0 +1,103 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>οὐκ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-2">
+                <text>ἂν</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>μύροισι</text>
+                <refs nrefs="1-7 1-8 1-9"/>
+            </w>
+            <w n="1-4">
+                <text>γραῦς</text>
+                <refs nrefs="1-14 1-15"/>
+            </w>
+            <w n="1-5">
+                <text>ἐοῦσ᾽</text>
+                <refs nrefs="1-10 1-11 1-12"/>
+            </w>
+            <w n="1-6">
+                <text>ἠλείφεο</text>
+                <refs nrefs="1-1 1-4 1-5 1-6"/>
+            </w>
+            <w n="1-7">
+                <text>.</text>
+                <refs nrefs="1-16"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>You</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-2">
+                <text>shall</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>not</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>anoil</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>the</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>skin</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-7">
+                <text>with</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-8">
+                <text>sweet</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-9">
+                <text>oil</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-10">
+                <text>when</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-11">
+                <text>you</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-12">
+                <text>are</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-13">
+                <text>an</text>
+            </w>
+            <w n="1-14">
+                <text>old</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-15">
+                <text>women</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-16">
+                <text>.</text>
+                <refs nrefs="1-7"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

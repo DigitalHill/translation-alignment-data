@@ -1,0 +1,148 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ταῦτα</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-2">
+                <text>μὲν</text>
+            </w>
+            <w n="1-3">
+                <text>ἐπελθόντα</text>
+                <refs nrefs="1-3 1-4"/>
+            </w>
+            <w n="1-4">
+                <text>τῇ</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>μνήμῃ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>κατὰ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>τὴν</text>
+            </w>
+            <w n="1-8">
+                <text>γραφὴν</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-9">
+                <text>ἀπώσασθαι</text>
+                <refs nrefs="1-14 1-15"/>
+            </w>
+            <w n="1-10">
+                <text>καὶ</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-11">
+                <text>παρελθεῖν</text>
+                <refs nrefs="1-17 1-19"/>
+            </w>
+            <w n="1-12">
+                <text>ἴσως</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-13">
+                <text>ἀπάνθρωπον</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-14">
+                <text>ἦν</text>
+                <refs nrefs="1-10 1-11"/>
+            </w>
+            <w n="1-15">
+                <text>.</text>
+                <refs nrefs="1-20"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>These</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>things</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>coming</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>to</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>my</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>recollection</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>as</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>I</text>
+            </w>
+            <w n="1-9">
+                <text>write</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-10">
+                <text>it</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-11">
+                <text>were</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-12">
+                <text>perhaps</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-13">
+                <text>unnatural</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-14">
+                <text>to</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-15">
+                <text>reject</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-16">
+                <text>and</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-17">
+                <text>pass</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-18">
+                <text>them</text>
+            </w>
+            <w n="1-19">
+                <text>by</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-20">
+                <text>.</text>
+                <refs nrefs="1-15"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

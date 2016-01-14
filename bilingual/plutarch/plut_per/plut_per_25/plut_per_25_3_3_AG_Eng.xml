@@ -1,0 +1,222 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>γενομένης</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>καρτερᾶς</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>ναυμαχίας</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>περὶ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>νῆσον</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>ἣν</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-8">
+                <text>Τραγίας</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-9">
+                <text>καλοῦσι</text>
+                <refs nrefs="1-10 1-11"/>
+            </w>
+            <w n="1-10">
+                <text>λαμπρῶς</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-11">
+                <text>ὁ</text>
+            </w>
+            <w n="1-12">
+                <text>Περικλῆς</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-13">
+                <text>ἐνίκα</text>
+                <refs nrefs="1-14 1-15 1-17"/>
+            </w>
+            <w n="1-14">
+                <text>τέσσαρσι</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-15">
+                <text>καὶ</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-16">
+                <text>τεσσαράκοντα</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-17">
+                <text>ναυσὶν</text>
+                <refs nrefs="1-18 1-23"/>
+            </w>
+            <w n="1-18">
+                <text>ἑβδομήκοντα</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-19">
+                <text>καταναυμαχήσας</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-20">
+                <text>ὧν</text>
+                <refs nrefs="1-27 1-28"/>
+            </w>
+            <w n="1-21">
+                <text>εἴκοσι</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-22">
+                <text>στρατιώτιδες</text>
+                <refs nrefs="1-30"/>
+            </w>
+            <w n="1-23">
+                <text>ἦσαν</text>
+                <refs nrefs="1-29"/>
+            </w>
+            <w n="1-24">
+                <text>.</text>
+                <refs nrefs="1-31"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>A</text>
+            </w>
+            <w n="1-2">
+                <text>fierce</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>seafight</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>came</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-5">
+                <text>off</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-6">
+                <text>near</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>an</text>
+            </w>
+            <w n="1-8">
+                <text>island</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>which</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>is</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>called</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-12">
+                <text>Tragia</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-13">
+                <text>Pericles</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-14">
+                <text>won</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-15">
+                <text>a</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-16">
+                <text>brilliant</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-17">
+                <text>victory</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-18">
+                <text>with</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-19">
+                <text>four</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-20">
+                <text>and</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-22">
+                <text>forty</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-23">
+                <text>ships</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-24">
+                <text>outfighting</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-25">
+                <text>seventy</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-26">
+                <text>twenty</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-27">
+                <text>of</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-28">
+                <text>which</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-29">
+                <text>were</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-30">
+                <text>infantrytransports</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-31">
+                <text>.</text>
+                <refs nrefs="1-24"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

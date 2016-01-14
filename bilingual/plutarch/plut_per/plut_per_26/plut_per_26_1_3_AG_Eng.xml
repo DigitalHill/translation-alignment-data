@@ -1,0 +1,62 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>ὅπερ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>οὐ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>δοκεῖ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>πιθανὸν</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>εἶναι</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-6">
+                <text>.</text>
+                <refs nrefs="1-7"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>That</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>doesn't</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>seem</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>to</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>be</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>plausible</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>.</text>
+                <refs nrefs="1-6"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

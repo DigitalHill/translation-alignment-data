@@ -1,0 +1,160 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>μετὰ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>ταύτας</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>τὰς</text>
+            </w>
+            <w n="1-5">
+                <text>πράξεις</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>ἐπὶ</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>Σάμον</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-8">
+                <text>στρατεύσας</text>
+                <refs nrefs="1-4 1-5 1-6 1-7"/>
+            </w>
+            <w n="1-9">
+                <text>ἣν</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-10">
+                <text>Περικλῆς</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-11">
+                <text>ἀπὸ</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-12">
+                <text>διακοσίων</text>
+                <refs nrefs="1-14 1-15"/>
+            </w>
+            <w n="1-13">
+                <text>νεῶν</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-14">
+                <text>καὶ</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-15">
+                <text>χιλίων</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-16">
+                <text>ταλάντων</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-17">
+                <text>κατεπολέμησε</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-18">
+                <text>.</text>
+                <refs nrefs="1-20"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>After</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>these</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>exploits</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>he</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-5">
+                <text>led</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>an</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>expedition</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-8">
+                <text>against</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>Samos</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>which</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>Pericles</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-12">
+                <text>reduced</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-13">
+                <text>with</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-14">
+                <text>two</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-15">
+                <text>hundred</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-16">
+                <text>ships</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-17">
+                <text>and</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-18">
+                <text>thousand</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-19">
+                <text>talents</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-20">
+                <text>.</text>
+                <refs nrefs="1-18"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

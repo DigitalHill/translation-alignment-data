@@ -1,0 +1,279 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="eng"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>καί</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>ποτε</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>τοῦ</text>
+            </w>
+            <w n="1-4">
+                <text>Σοφοκλέους</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>ὅτε</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>συστρατηγῶν</text>
+                <refs nrefs="1-5 1-6 1-7"/>
+            </w>
+            <w n="1-7">
+                <text>ἐξέπλευσε</text>
+                <refs nrefs="1-10 1-11 1-12 1-13 1-14"/>
+            </w>
+            <w n="1-8">
+                <text>μετ᾽</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>αὐτοῦ</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>παῖδα</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-11">
+                <text>καλὸν</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-12">
+                <text>ἐπαινέσαντος</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-13">
+                <text>οὐ</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-14">
+                <text>μόνον</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-15">
+                <text>ἔφη</text>
+                <refs nrefs="1-19 1-20"/>
+            </w>
+            <w n="1-16">
+                <text>τὰς</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-17">
+                <text>χεῖρας</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-18">
+                <text>ὦ</text>
+            </w>
+            <w n="1-19">
+                <text>Σοφόκλεις</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-20">
+                <text>δεῖ</text>
+                <refs nrefs="1-21 1-22 1-28 1-31"/>
+            </w>
+            <w n="1-21">
+                <text>καθαρὰς</text>
+                <refs nrefs="1-33"/>
+            </w>
+            <w n="1-22">
+                <text>ἔχειν</text>
+                <refs nrefs="1-32"/>
+            </w>
+            <w n="1-23">
+                <text>τὸν</text>
+                <refs nrefs="1-29"/>
+            </w>
+            <w n="1-24">
+                <text>στρατηγόν</text>
+                <refs nrefs="1-30"/>
+            </w>
+            <w n="1-25">
+                <text>ἀλλὰ</text>
+                <refs nrefs="1-34"/>
+            </w>
+            <w n="1-26">
+                <text>καὶ</text>
+                <refs nrefs="1-37 1-38"/>
+            </w>
+            <w n="1-27">
+                <text>τὰς</text>
+                <refs nrefs="1-35"/>
+            </w>
+            <w n="1-28">
+                <text>ὄψεις</text>
+                <refs nrefs="1-36"/>
+            </w>
+            <w n="1-29">
+                <text>.</text>
+                <refs nrefs="1-39"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>Once</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>also</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>when</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>Sophocles</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>who</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>was</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-7">
+                <text>general</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>with</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>him</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>on</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-11">
+                <text>a</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-12">
+                <text>certain</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-13">
+                <text>naval</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-14">
+                <text>expedition</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-15">
+                <text>praised</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-16">
+                <text>a</text>
+            </w>
+            <w n="1-17">
+                <text>lovely</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-18">
+                <text>boy</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-19">
+                <text>he</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-20">
+                <text>said</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-21">
+                <text>It</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-22">
+                <text>is</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-23">
+                <text>not</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-24">
+                <text>his</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-25">
+                <text>hands</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-26">
+                <text>only</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-27">
+                <text>Sophocles</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-28">
+                <text>that</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-29">
+                <text>a</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-30">
+                <text>general</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-31">
+                <text>must</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-32">
+                <text>keep</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-33">
+                <text>clean</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-34">
+                <text>but</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-35">
+                <text>his</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-36">
+                <text>eyes</text>
+                <refs nrefs="1-28"/>
+            </w>
+            <w n="1-37">
+                <text>as</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-38">
+                <text>well</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-39">
+                <text>.</text>
+                <refs nrefs="1-29"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

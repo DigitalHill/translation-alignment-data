@@ -1,0 +1,137 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Ἑρμησίλεω</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>ξένου</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>οἱ</text>
+                <refs nrefs="1-8 1-9"/>
+            </w>
+            <w n="1-5">
+                <text>ἐόντος</text>
+                <refs nrefs="1-5 1-6 1-7"/>
+            </w>
+            <w n="1-6">
+                <text>καὶ</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-7">
+                <text>προξένου</text>
+                <refs nrefs="1-14 1-15"/>
+            </w>
+            <w n="1-8">
+                <text>Ἀθηναίων</text>
+                <refs nrefs="1-16 1-18"/>
+            </w>
+            <w n="1-9">
+                <text>ἑστιῶντος</text>
+                <refs nrefs="1-10 1-11 1-12"/>
+            </w>
+            <w n="1-10">
+                <text>αὐτόν</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-11">
+                <text>.</text>
+                <refs nrefs="1-19"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>And</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>Hermesilaos</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>entertained</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>him</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-5">
+                <text>since</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>he</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>was</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-8">
+                <text>at</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-9">
+                <text>his</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-10">
+                <text>house</text>
+            </w>
+            <w n="1-11">
+                <text>and</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-10">
+                <text>since</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-11">
+                <text>he</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-12">
+                <text>feasted</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-13">
+                <text>the</text>
+            </w>
+            <w n="1-14">
+                <text>public</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-15">
+                <text>friend</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-16">
+                <text>of</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-17">
+                <text>the</text>
+            </w>
+            <w n="1-18">
+                <text>Athenians</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-19">
+                <text>.</text>
+                <refs nrefs="1-11"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

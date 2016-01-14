@@ -1,0 +1,184 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>καίτοι</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-2">
+                <text>Στησίμβροτος</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>Ἀναξαγόρου</text>
+                <refs nrefs="1-10 1-11"/>
+            </w>
+            <w n="1-4">
+                <text>τε</text>
+            </w>
+            <w n="1-5">
+                <text>διακοῦσαι</text>
+                <refs nrefs="1-7 1-8 1-9"/>
+            </w>
+            <w n="1-6">
+                <text>τὸν</text>
+            </w>
+            <w n="1-7">
+                <text>Θεμιστοκλέα</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>φησὶ</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-9">
+                <text>καὶ</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-10">
+                <text>περὶ</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-11">
+                <text>Μέλισσον</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-12">
+                <text>σπουδάσαι</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-13">
+                <text>τὸν</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-14">
+                <text>φυσικόν</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-15">
+                <text>οὐκ</text>
+            </w>
+            <w n="1-16">
+                <text>εὖ</text>
+            </w>
+            <w n="1-17">
+                <text>τῶν</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-18">
+                <text>χρόνων</text>
+                <refs nrefs="1-23 1-25"/>
+            </w>
+            <w n="1-19">
+                <text>ἁπτόμενος</text>
+            </w>
+            <w n="1-20">
+                <text>·</text>
+                <refs nrefs="1-26"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>And</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>yet</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>Stesimbrotus</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>says</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-5">
+                <text>that</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>Themistocles</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>was</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-8">
+                <text>a</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>pupil</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-10">
+                <text>of</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-11">
+                <text>Anaxagoras</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-12">
+                <text>and</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-13">
+                <text>a</text>
+            </w>
+            <w n="1-14">
+                <text>disciple</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-15">
+                <text>of</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-16">
+                <text>Melissus</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-17">
+                <text>the</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-18">
+                <text>physicist</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-19">
+                <text>but</text>
+            </w>
+            <w n="1-20">
+                <text>he</text>
+            </w>
+            <w n="1-21">
+                <text>is</text>
+            </w>
+            <w n="1-22">
+                <text>careless</text>
+            </w>
+            <w n="1-23">
+                <text>in</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-24">
+                <text>his</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-25">
+                <text>chronology</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-26">
+                <text>.</text>
+                <refs nrefs="1-20"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

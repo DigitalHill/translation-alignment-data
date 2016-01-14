@@ -1,0 +1,40 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="lat"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Samum</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-2">
+                <text>cepit</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-3">
+                <text>:</text>
+                <refs nrefs="1-4"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>He</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>conquered</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>Samos</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>.</text>
+                <refs nrefs="1-3"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

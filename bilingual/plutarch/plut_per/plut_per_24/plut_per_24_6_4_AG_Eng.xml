@@ -1,0 +1,110 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Ἥραν</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-2">
+                <text>τέ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>οἱ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>Ἀσπασίαν</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>τίκτει</text>
+                <refs nrefs="1-5 1-6"/>
+            </w>
+            <w n="1-6">
+                <text>Καταπυγοσύνη</text>
+                <refs nrefs="1-8 1-9 1-10 1-11"/>
+            </w>
+            <w n="1-7">
+                <text>παλλακὴν</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-8">
+                <text>κυνώπιδα</text>
+                <refs nrefs="1-14 1-15"/>
+            </w>
+            <w n="1-9">
+                <text>.</text>
+                <refs nrefs="1-16"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>As</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>his</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>Hera</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>Aspasia</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>was</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>born</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>the</text>
+            </w>
+            <w n="1-8">
+                <text>child</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>of</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-10">
+                <text>Unnatural</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-11">
+                <text>Lust</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-12">
+                <text>a</text>
+            </w>
+            <w n="1-13">
+                <text>prostitute</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-14">
+                <text>past</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-15">
+                <text>shaming</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-16">
+                <text>.</text>
+                <refs nrefs="1-9"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

@@ -1,0 +1,179 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="deu"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>μνημονεύουσι</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-2">
+                <text>δ᾽</text>
+            </w>
+            <w n="1-3">
+                <text>αὐτῆς</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-4">
+                <text>πολλάκις</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-5">
+                <text>καὶ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-6">
+                <text>οἱ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-7">
+                <text>ἄλλοι</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-8">
+                <text>Σωκρατικοὶ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-9">
+                <text>καὶ</text>
+                <refs nrefs="1-8 1-9"/>
+            </w>
+            <w n="1-10">
+                <text>Πλάτων</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-11">
+                <text>ἐν</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-12">
+                <text>τῷ</text>
+            </w>
+            <w n="1-13">
+                <text>Μενεξένῳ</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-14">
+                <text>τὸν</text>
+            </w>
+            <w n="1-15">
+                <text>Σωκράτην</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-16">
+                <text>παρ᾽</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-17">
+                <text>αὐτῆς</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-18">
+                <text>φησὶ</text>
+                <refs nrefs="1-13 1-14"/>
+            </w>
+            <w n="1-19">
+                <text>μαθεῖν</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-20">
+                <text>τὰ</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-21">
+                <text>πολιτικά</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-22">
+                <text>.</text>
+                <refs nrefs="1-21"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>Sowohl</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-2">
+                <text>die</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-3">
+                <text>anderen</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-4">
+                <text>Sokratiker</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-5">
+                <text>erwaehnen</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-6">
+                <text>sie</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>oft</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>als</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-9">
+                <text>auch</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>Platon</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-11">
+                <text>im</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-12">
+                <text>Menexenos</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-13">
+                <text>behauptet</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-14">
+                <text>dass</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-15">
+                <text>Sokrates</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-16">
+                <text>die</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-17">
+                <text>Politik</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-18">
+                <text>von</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-19">
+                <text>ihr</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-20">
+                <text>lernte</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-21">
+                <text>.</text>
+                <refs nrefs="1-22"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

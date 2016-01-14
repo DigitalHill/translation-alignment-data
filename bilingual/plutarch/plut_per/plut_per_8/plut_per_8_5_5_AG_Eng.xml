@@ -1,0 +1,196 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="eng"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>ὁ</text>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>Στησίμβροτός</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>φησιν</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>ὅτι</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>τοὺς</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-7">
+                <text>ἐν</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-8">
+                <text>Σάμῳ</text>
+                <refs nrefs="1-16 1-17"/>
+            </w>
+            <w n="1-9">
+                <text>τεθνηκότας</text>
+                <refs nrefs="1-11 1-12 1-13"/>
+            </w>
+            <w n="1-10">
+                <text>ἐγκωμιάζων</text>
+                <refs nrefs="1-5 1-6 1-7 1-8 1-9"/>
+            </w>
+            <w n="1-11">
+                <text>ἐπὶ</text>
+            </w>
+            <w n="1-12">
+                <text>τοῦ</text>
+            </w>
+            <w n="1-13">
+                <text>βήματος</text>
+            </w>
+            <w n="1-14">
+                <text>ἀθανάτους</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-15">
+                <text>ἔλεγε</text>
+                <refs nrefs="1-18 1-19 1-20"/>
+            </w>
+            <w n="1-16">
+                <text>γεγονέναι</text>
+                <refs nrefs="1-22 1-23"/>
+            </w>
+            <w n="1-17">
+                <text>καθάπερ</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-18">
+                <text>τοὺς</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-19">
+                <text>θεούς</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-20">
+                <text>·</text>
+                <refs nrefs="1-28"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>Again</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>Stesimbrotus</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>says</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>that</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>in</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-6">
+                <text>his</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-7">
+                <text>funeral</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-8">
+                <text>oration</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-9">
+                <text>over</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-10">
+                <text>those</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-11">
+                <text>who</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-12">
+                <text>had</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-13">
+                <text>fallen</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-14">
+                <text>in</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-15">
+                <text>the</text>
+            </w>
+            <w n="1-16">
+                <text>Samian</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-17">
+                <text>War</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-18">
+                <text>he</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-19">
+                <text>declared</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-20">
+                <text>that</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-21">
+                <text>they</text>
+            </w>
+            <w n="1-22">
+                <text>had</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-23">
+                <text>become</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-24">
+                <text>immortal</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-25">
+                <text>like</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-26">
+                <text>the</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-27">
+                <text>gods</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-28">
+                <text>;</text>
+                <refs nrefs="1-20"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

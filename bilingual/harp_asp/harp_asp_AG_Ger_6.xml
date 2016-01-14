@@ -1,0 +1,133 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="deu"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <w n="1-1">
+                <text>Λυσικλεῖ</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>τῷ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-4">
+                <text>δημαγωγῷ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-5">
+                <text>συνοικήσασα</text>
+                <refs nrefs="1-2 1-3 1-8"/>
+            </w>
+            <w n="1-6">
+                <text>Πορίστην</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-7">
+                <text>ἔσχεν</text>
+                <refs nrefs="1-9 1-10"/>
+            </w>
+            <w n="1-8">
+                <text>ὡς</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-9">
+                <text>ὁ</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-10">
+                <text>Σωκρατικὸς</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-11">
+                <text>Αἰσχίνης</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-12">
+                <text>φησίν</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-13">
+                <text>.</text>
+                <refs nrefs="1-17"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <w n="1-1">
+                <text>Und</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>als</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-3">
+                <text>sie</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>mit</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-5">
+                <text>Lysikles</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-6">
+                <text>dem</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>Demagogen</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>zusammenwohnte</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>bekam</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>sie</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-11">
+                <text>Poristes</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-12">
+                <text>wie</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-13">
+                <text>der</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-14">
+                <text>Sokratiker</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-15">
+                <text>Aischines</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-16">
+                <text>sagt</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-17">
+                <text>.</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-20">
+                <text/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

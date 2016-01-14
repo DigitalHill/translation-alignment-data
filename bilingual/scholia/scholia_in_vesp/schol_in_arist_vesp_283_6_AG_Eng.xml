@@ -1,0 +1,330 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Τοῦτο</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>μαθόντες</text>
+                <refs nrefs="1-2 1-3 1-4"/>
+            </w>
+            <w n="1-4">
+                <text>Σάμιοι</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-5">
+                <text>μηχανήν</text>
+                <refs nrefs="1-10 1-11 1-12"/>
+            </w>
+            <w n="1-6">
+                <text>τινα</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-7">
+                <text>κατασεύασαν</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-8">
+                <text>κατ᾽</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-9">
+                <text>αὐτῶν</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-10">
+                <text>ἣν</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-11">
+                <text>μαθόντες</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-12">
+                <text>Ἀθηναῖοι</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-13">
+                <text>ὑπὸ</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-14">
+                <text>τινος</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-15">
+                <text>Καρυστίωνος</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-16">
+                <text>ἐφυλάξαντο</text>
+                <refs nrefs="1-23 1-24 1-25"/>
+            </w>
+            <w n="1-17">
+                <text>καὶ</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-18">
+                <text>Σαμίους</text>
+                <refs nrefs="1-30"/>
+            </w>
+            <w n="1-19">
+                <text>μὲν</text>
+            </w>
+            <w n="1-20">
+                <text>κακῶς</text>
+                <refs nrefs="1-31"/>
+            </w>
+            <w n="1-21">
+                <text>διέθηκαν</text>
+                <refs nrefs="1-28 1-29"/>
+            </w>
+            <w n="1-22">
+                <text>τὸν</text>
+            </w>
+            <w n="1-23">
+                <text>δὲ</text>
+                <refs nrefs="1-32"/>
+            </w>
+            <w n="1-24">
+                <text>Καρυστίωνα</text>
+                <refs nrefs="1-35"/>
+            </w>
+            <w n="1-25">
+                <text>ἐτίμησαν</text>
+                <refs nrefs="1-33 1-34"/>
+            </w>
+            <w n="1-26">
+                <text>σφόδρα</text>
+                <refs nrefs="1-36"/>
+            </w>
+            <w n="1-27">
+                <text>μετὰ</text>
+                <refs nrefs="1-37"/>
+            </w>
+            <w n="1-28">
+                <text>τοῦ</text>
+                <refs nrefs="1-38"/>
+            </w>
+            <w n="1-29">
+                <text>γένους</text>
+                <refs nrefs="1-39"/>
+            </w>
+            <w n="1-30">
+                <text>καὶ</text>
+                <refs nrefs="1-40"/>
+            </w>
+            <w n="1-31">
+                <text>τῆς</text>
+                <refs nrefs="1-44"/>
+            </w>
+            <w n="1-32">
+                <text>αὐτῶν</text>
+                <refs nrefs="1-42"/>
+            </w>
+            <w n="1-33">
+                <text>πολιτείας</text>
+                <refs nrefs="1-45"/>
+            </w>
+            <w n="1-34">
+                <text>ἠξίωσαν</text>
+                <refs nrefs="1-41 1-43"/>
+            </w>
+            <w n="1-35">
+                <text>.</text>
+                <refs nrefs="1-46"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>And</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>when</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>they</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>learned</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>that</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-6">
+                <text>the</text>
+            </w>
+            <w n="1-7">
+                <text>Samians</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>equipped</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-9">
+                <text>some</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-10">
+                <text>engines</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-11">
+                <text>of</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-12">
+                <text>war</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-13">
+                <text>against</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-14">
+                <text>them</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-15">
+                <text>which</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-16">
+                <text>the</text>
+            </w>
+            <w n="1-17">
+                <text>Athenians</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-18">
+                <text>learned</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-19">
+                <text>by</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-20">
+                <text>a</text>
+            </w>
+            <w n="1-21">
+                <text>certain</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-22">
+                <text>Carystionos</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-23">
+                <text>and</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-24">
+                <text>kept</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-25">
+                <text>guard</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-26">
+                <text>and</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-27">
+                <text>the</text>
+            </w>
+            <w n="1-28">
+                <text>they</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-29">
+                <text>disposed</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-30">
+                <text>Samians</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-31">
+                <text>badly</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-32">
+                <text>and</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-33">
+                <text>they</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-34">
+                <text>honoured</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-35">
+                <text>Carystionos</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-36">
+                <text>vehemently</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-37">
+                <text>with</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-38">
+                <text>his</text>
+                <refs nrefs="1-28"/>
+            </w>
+            <w n="1-39">
+                <text>familiy</text>
+                <refs nrefs="1-29"/>
+            </w>
+            <w n="1-40">
+                <text>and</text>
+                <refs nrefs="1-30"/>
+            </w>
+            <w n="1-41">
+                <text>regarded</text>
+                <refs nrefs="1-34"/>
+            </w>
+            <w n="1-42">
+                <text>him</text>
+                <refs nrefs="1-32"/>
+            </w>
+            <w n="1-43">
+                <text>worthy</text>
+                <refs nrefs="1-34"/>
+            </w>
+            <w n="1-44">
+                <text>the</text>
+                <refs nrefs="1-31"/>
+            </w>
+            <w n="1-45">
+                <text>citizenship</text>
+                <refs nrefs="1-33"/>
+            </w>
+            <w n="1-46">
+                <text>.</text>
+                <refs nrefs="1-35"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

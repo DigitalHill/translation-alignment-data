@@ -1,0 +1,86 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Κρατῖνος</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>δ᾽</text>
+            </w>
+            <w n="1-3">
+                <text>ἄντικρυς</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>παλλακὴν</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>αὐτὴν</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>εἴρηκεν</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>ἐν</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>τούτοις</text>
+                <refs nrefs="1-8 1-9"/>
+            </w>
+            <w n="1-9">
+                <text>·</text>
+                <refs nrefs="1-10"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Cratinus</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>flatly</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>called</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-4">
+                <text>her</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>a</text>
+            </w>
+            <w n="1-6">
+                <text>prostitute</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>in</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>these</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>lines</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-10">
+                <text>:</text>
+                <refs nrefs="1-9"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

@@ -1,0 +1,84 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἦν</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>Φωκαῒ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>τὸ</text>
+            </w>
+            <w n="1-5">
+                <text>γένος</text>
+                <refs nrefs="1-5 1-6"/>
+            </w>
+            <w n="1-6">
+                <text>Ἑρμοτίμου</text>
+                <refs nrefs="1-8 1-10"/>
+            </w>
+            <w n="1-7">
+                <text>θυγάτηρ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>·</text>
+                <refs nrefs="1-11"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>She</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>was</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>a</text>
+            </w>
+            <w n="1-4">
+                <text>Phocaean</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>by</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>birth</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>daughter</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>of</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>one</text>
+            </w>
+            <w n="1-10">
+                <text>Hermotimus</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-11">
+                <text>,</text>
+                <refs nrefs="1-8"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

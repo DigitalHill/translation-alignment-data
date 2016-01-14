@@ -1,0 +1,115 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἐκείνων</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>διαπρεπῆ</text>
+                <refs nrefs="1-4 1-5 1-6"/>
+            </w>
+            <w n="1-4">
+                <text>τὴν</text>
+            </w>
+            <w n="1-5">
+                <text>ἀρετὴν</text>
+                <refs nrefs="1-2 1-7"/>
+            </w>
+            <w n="1-6">
+                <text>κρίναντες</text>
+            </w>
+            <w n="1-7">
+                <text>αὐτοῦ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-8">
+                <text>καὶ</text>
+            </w>
+            <w n="1-9">
+                <text>τὸν</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-10">
+                <text>τάφον</text>
+                <refs nrefs="1-10 1-12"/>
+            </w>
+            <w n="1-11">
+                <text>ἐποίησαν</text>
+                <refs nrefs="1-8 1-9"/>
+            </w>
+            <w n="1-12">
+                <text>.</text>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>who</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>for</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-3">
+                <text>their</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-4">
+                <text>singular</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>and</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>extraordinary</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>valor</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-8">
+                <text>were</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-9">
+                <text>interred</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-10">
+                <text>on</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-11">
+                <text>the</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-12">
+                <text>spot</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-13">
+                <text>where</text>
+            </w>
+            <w n="1-14">
+                <text>they</text>
+            </w>
+            <w n="1-15">
+                <text>fell</text>
+            </w>
+            <w n="1-16">
+                <text>.</text>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

@@ -1,0 +1,201 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>εἶτα</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>τῆς</text>
+            </w>
+            <w n="1-3">
+                <text>συμβιώσεως</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-4">
+                <text>οὐκ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-5">
+                <text>οὔσης</text>
+                <refs nrefs="1-2 1-6"/>
+            </w>
+            <w n="1-6">
+                <text>αὐτοῖς</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>ἀρεστῆς</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-8">
+                <text>ἐκείνην</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-9">
+                <text>μὲν</text>
+            </w>
+            <w n="1-10">
+                <text>ἑτέρῳ</text>
+                <refs nrefs="1-14 1-15"/>
+            </w>
+            <w n="1-11">
+                <text>βουλομένην</text>
+                <refs nrefs="1-16 1-17 1-18 1-19"/>
+            </w>
+            <w n="1-12">
+                <text>συνεξέδωκεν</text>
+                <refs nrefs="1-9 1-10 1-11 1-13"/>
+            </w>
+            <w n="1-13">
+                <text>αὐτὸς</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-14">
+                <text>δὲ</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-15">
+                <text>τὴν</text>
+            </w>
+            <w n="1-16">
+                <text>Ἀσπασίαν</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-17">
+                <text>λαβὼν</text>
+                <refs nrefs="1-22 1-24"/>
+            </w>
+            <w n="1-18">
+                <text>ἔστερξε</text>
+                <refs nrefs="1-25 1-26"/>
+            </w>
+            <w n="1-19">
+                <text>διαφερόντως</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-20">
+                <text>.</text>
+                <refs nrefs="1-28"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Afterwards</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>since</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-3">
+                <text>their</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-4">
+                <text>married</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>life</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>was</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>not</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>agreeable</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-9">
+                <text>he</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-10">
+                <text>legally</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-11">
+                <text>bestowed</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-12">
+                <text>her</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-13">
+                <text>upon</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-14">
+                <text>another</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-15">
+                <text>man</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-16">
+                <text>with</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-17">
+                <text>her</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-18">
+                <text>own</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-19">
+                <text>consent</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-20">
+                <text>and</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-21">
+                <text>himself</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-22">
+                <text>took</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-23">
+                <text>Aspasia</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-24">
+                <text>and</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-25">
+                <text>loved</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-26">
+                <text>her</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-27">
+                <text>exceedingly</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-28">
+                <text>.</text>
+                <refs nrefs="1-20"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

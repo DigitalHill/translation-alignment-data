@@ -1,0 +1,125 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>καὶ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>διὰ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>παντὸς</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>τοῦ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>πολέμου</text>
+                <refs nrefs="1-5 1-7"/>
+            </w>
+            <w n="1-6">
+                <text>ὁπότε</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>ξυμβαίη</text>
+                <refs nrefs="1-10 1-11"/>
+            </w>
+            <w n="1-8">
+                <text>αὐτοῖς</text>
+            </w>
+            <w n="1-9">
+                <text>ἐχρῶντο</text>
+                <refs nrefs="1-15 1-16"/>
+            </w>
+            <w n="1-10">
+                <text>τῷ</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-11">
+                <text>νόμῳ</text>
+                <refs nrefs="1-13 1-14"/>
+            </w>
+            <w n="1-12">
+                <text>.</text>
+                <refs nrefs="1-17"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>and</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>throughout</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>the</text>
+            </w>
+            <w n="1-4">
+                <text>whole</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>of</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>the</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>war</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-8">
+                <text>whenever</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>the</text>
+            </w>
+            <w n="1-10">
+                <text>occasion</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-11">
+                <text>arose</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-12">
+                <text>the</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-13">
+                <text>established</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-14">
+                <text>custom</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-15">
+                <text>was</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-16">
+                <text>observed</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-17">
+                <text>.</text>
+                <refs nrefs="1-12"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

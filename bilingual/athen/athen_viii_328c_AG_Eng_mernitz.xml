@@ -1,0 +1,316 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>τριχίδων</text>
+                <refs nrefs="1-6 1-8 1-9 1-10 1-11 1-12"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>Εὔπολις</text>
+                <refs nrefs="1-2 1-4"/>
+            </w>
+            <w n="1-4">
+                <text>ἐν</text>
+            </w>
+            <w n="1-5">
+                <text>Κόλαξιν</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>·</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="2-1">
+                <text>ἐκεῖνος</text>
+                <refs nrefs="2-1 2-2"/>
+            </w>
+            <w n="2-2">
+                <text>ἦν</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-3">
+                <text>φειδωλός</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="2-4">
+                <text>,</text>
+            </w>
+            <w n="2-5">
+                <text>ὃς</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="2-6">
+                <text>ἐπὶ</text>
+                <refs nrefs="2-12"/>
+            </w>
+            <w n="2-7">
+                <text>τοῦ</text>
+                <refs nrefs="2-13"/>
+            </w>
+            <w n="2-8">
+                <text>βίου</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="2-9">
+                <text>πρὸ</text>
+                <refs nrefs="2-15"/>
+            </w>
+            <w n="2-10">
+                <text>τοῦ</text>
+                <refs nrefs="2-16"/>
+            </w>
+            <w n="2-11">
+                <text>πολέμου</text>
+                <refs nrefs="2-17"/>
+            </w>
+            <w n="2-12">
+                <text>μὲν</text>
+                <refs nrefs="2-21"/>
+            </w>
+            <w n="2-13">
+                <text>τριχίδας</text>
+                <refs nrefs="2-20"/>
+            </w>
+            <w n="2-14">
+                <text>ὠψώνησ᾽</text>
+                <refs nrefs="2-7 2-8 2-9 2-10 2-11"/>
+            </w>
+            <w n="2-15">
+                <text>ἅπαξ</text>
+                <refs nrefs="2-22"/>
+            </w>
+            <w n="2-16">
+                <text>,</text>
+            </w>
+            <w n="2-17">
+                <text>ὅτε</text>
+                <refs nrefs="2-24"/>
+            </w>
+            <w n="2-18">
+                <text>τἀν</text>
+                <refs nrefs="2-25 2-26"/>
+            </w>
+            <w n="2-19">
+                <text>Σάμῳ</text>
+                <refs nrefs="2-27"/>
+            </w>
+            <w n="2-20">
+                <text>δ᾽</text>
+            </w>
+            <w n="2-21">
+                <text>ἦν</text>
+                <refs nrefs="2-28"/>
+            </w>
+            <w n="2-22">
+                <text>,</text>
+            </w>
+            <w n="2-23">
+                <text>ἡμιωβελίου</text>
+                <refs nrefs="2-31 2-32 2-33 2-34"/>
+            </w>
+            <w n="2-24">
+                <text>κρέα</text>
+                <refs nrefs="2-30"/>
+            </w>
+            <w n="2-25">
+                <text>.</text>
+                <refs nrefs="2-35"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>And</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>Eupolis</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>says</text>
+            </w>
+            <w n="1-4">
+                <text>in</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>Kolakes</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>about</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-7">
+                <text>an</text>
+            </w>
+            <w n="1-8">
+                <text>anchovy</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-9">
+                <text>full</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-10">
+                <text>of</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-11">
+                <text>hairlike</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-12">
+                <text>bones</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-13">
+                <text>:</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="2-1">
+                <text>That</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-2">
+                <text>person</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-3">
+                <text>was</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-4">
+                <text>thrifty</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-5">
+                <text>,</text>
+            </w>
+            <w n="2-6">
+                <text>that</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-7">
+                <text>buys</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="2-8">
+                <text>fish</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="2-9">
+                <text>and</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="2-10">
+                <text>other</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="2-11">
+                <text>dainties</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="2-12">
+                <text>in</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="2-13">
+                <text>the</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-14">
+                <text>life</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-15">
+                <text>before</text>
+                <refs nrefs="2-9"/>
+            </w>
+            <w n="2-16">
+                <text>the</text>
+                <refs nrefs="2-10"/>
+            </w>
+            <w n="2-17">
+                <text>war</text>
+                <refs nrefs="2-11"/>
+            </w>
+            <w n="2-18">
+                <text>and</text>
+            </w>
+            <w n="2-19">
+                <text>the</text>
+            </w>
+            <w n="2-20">
+                <text>trichis</text>
+                <refs nrefs="2-13"/>
+            </w>
+            <w n="2-21">
+                <text>indeed</text>
+                <refs nrefs="2-12"/>
+            </w>
+            <w n="2-22">
+                <text>once</text>
+                <refs nrefs="2-15"/>
+            </w>
+            <w n="2-23">
+                <text>,</text>
+            </w>
+            <w n="2-24">
+                <text>when</text>
+                <refs nrefs="2-17"/>
+            </w>
+            <w n="2-25">
+                <text>that</text>
+                <refs nrefs="2-18"/>
+            </w>
+            <w n="2-26">
+                <text>in</text>
+                <refs nrefs="2-18"/>
+            </w>
+            <w n="2-27">
+                <text>Samos</text>
+                <refs nrefs="2-19"/>
+            </w>
+            <w n="2-28">
+                <text>happened</text>
+                <refs nrefs="2-21"/>
+            </w>
+            <w n="2-29">
+                <text>,</text>
+            </w>
+            <w n="2-30">
+                <text>meat</text>
+                <refs nrefs="2-24"/>
+            </w>
+            <w n="2-31">
+                <text>worth</text>
+                <refs nrefs="2-23"/>
+            </w>
+            <w n="2-32">
+                <text>half</text>
+                <refs nrefs="2-23"/>
+            </w>
+            <w n="2-33">
+                <text>an</text>
+                <refs nrefs="2-23"/>
+            </w>
+            <w n="2-34">
+                <text>obol</text>
+                <refs nrefs="2-23"/>
+            </w>
+            <w n="2-35">
+                <text>.</text>
+                <refs nrefs="2-25"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

@@ -1,0 +1,138 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἐν</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>τῇ</text>
+            </w>
+            <w n="1-4">
+                <text>μάχῃ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-5">
+                <text>Κύρου</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>πεσόντος</text>
+                <refs nrefs="1-2 1-4 1-5"/>
+            </w>
+            <w n="1-7">
+                <text>ἀπαχθεῖσα</text>
+                <refs nrefs="1-8 1-9 1-10"/>
+            </w>
+            <w n="1-8">
+                <text>πρὸς</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-9">
+                <text>βασιλέα</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-10">
+                <text>πλεῖστον</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-11">
+                <text>ἴσχυσε</text>
+                <refs nrefs="1-15 1-18"/>
+            </w>
+            <w n="1-12">
+                <text>.</text>
+                <refs nrefs="1-21"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>and</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>after</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-3">
+                <text>Cyrus</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>had</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-5">
+                <text>fallen</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>in</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-7">
+                <text>battle</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>was</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-9">
+                <text>carried</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>captive</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-11">
+                <text>to</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-12">
+                <text>the</text>
+            </w>
+            <w n="1-13">
+                <text>King</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-14">
+                <text>and</text>
+            </w>
+            <w n="1-15">
+                <text>acquired</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-16">
+                <text>the</text>
+            </w>
+            <w n="1-17">
+                <text>greatest</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-18">
+                <text>influence</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-19">
+                <text>with</text>
+            </w>
+            <w n="1-20">
+                <text>him</text>
+            </w>
+            <w n="1-21">
+                <text>.</text>
+                <refs nrefs="1-12"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

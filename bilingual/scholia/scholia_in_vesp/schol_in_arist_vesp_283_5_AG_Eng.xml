@@ -1,0 +1,138 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Καὶ</text>
+            </w>
+            <w n="1-2">
+                <text>δὴ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>τοῦτο</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-4">
+                <text>μαθόντες</text>
+                <refs nrefs="1-10 1-11 1-12"/>
+            </w>
+            <w n="1-5">
+                <text>Ἀθηναῖοι</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-6">
+                <text>τριήρεις</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>πολεμικὰς</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-8">
+                <text>κατ᾽</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>αὐτῶν</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>κατεσκεύασαν</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-11">
+                <text>Περικλέους</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-12">
+                <text>εἰσηγησαμένου</text>
+                <refs nrefs="1-14 1-16"/>
+            </w>
+            <w n="1-13">
+                <text>αὐτῶν</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-18"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Then</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>the</text>
+            </w>
+            <w n="1-3">
+                <text>Athenians</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>equipped</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-5">
+                <text>triremes</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>of</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>war</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>against</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>them</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>when</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-11">
+                <text>they</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-12">
+                <text>learned</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-13">
+                <text>that</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-14">
+                <text>since</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-15">
+                <text>Pericles</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-16">
+                <text>proposed</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-17">
+                <text>that</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-18">
+                <text>.</text>
+                <refs nrefs="1-14"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

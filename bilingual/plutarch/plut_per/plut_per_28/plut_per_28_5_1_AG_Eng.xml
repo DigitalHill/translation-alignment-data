@@ -1,0 +1,150 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ταῦτα</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-2">
+                <text>τῆς</text>
+            </w>
+            <w n="1-3">
+                <text>Ἐλπινίκης</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>λεγούσης</text>
+                <refs nrefs="1-1 1-3"/>
+            </w>
+            <w n="1-5">
+                <text>ὁ</text>
+            </w>
+            <w n="1-6">
+                <text>Περικλῆς</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>μειδιάσας</text>
+                <refs nrefs="1-6 1-7 1-9"/>
+            </w>
+            <w n="1-8">
+                <text>ἀτρέμα</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>λέγεται</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-10">
+                <text>τὸ</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-11">
+                <text>τοῦ</text>
+            </w>
+            <w n="1-12">
+                <text>Ἀρχιλόχου</text>
+                <refs nrefs="1-18 1-19"/>
+            </w>
+            <w n="1-13">
+                <text>πρὸς</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-14">
+                <text>αὐτὴν</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-15">
+                <text>εἰπεῖν</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-16">
+                <text>·</text>
+                <refs nrefs="1-20"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>On</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-2">
+                <text>Elpinices</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>saying</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>this</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-5">
+                <text>Pericles</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>with</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>a</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>quiet</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>smile</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-10">
+                <text>it</text>
+            </w>
+            <w n="1-11">
+                <text>is</text>
+            </w>
+            <w n="1-12">
+                <text>said</text>
+            </w>
+            <w n="1-13">
+                <text>quoted</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-14">
+                <text>to</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-15">
+                <text>her</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-16">
+                <text>the</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-17">
+                <text>verse</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-18">
+                <text>of</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-19">
+                <text>Archilochus</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-20">
+                <text>:</text>
+                <refs nrefs="1-16"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>

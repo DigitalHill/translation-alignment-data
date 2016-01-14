@@ -1,0 +1,234 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="eng"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>τί</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>δέ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>;</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="2-1">
+                <text>οὐκ</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-2">
+                <text>ἦσαν</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-3">
+                <text>καὶ</text>
+            </w>
+            <w n="2-4">
+                <text>οἱ</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-5">
+                <text>φιλόσοφοι</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="2-6">
+                <text>τὰ</text>
+            </w>
+            <w n="2-7">
+                <text>πολέμια</text>
+                <refs nrefs="2-6 2-7"/>
+            </w>
+            <w n="2-8">
+                <text>ἀγαθοί</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-9">
+                <text>;</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="3-1">
+                <text>ἐμοὶ</text>
+                <refs nrefs="3-1 3-2"/>
+            </w>
+            <w n="3-2">
+                <text>μὲν</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="3-3">
+                <text>δοκοῦσιν</text>
+                <refs nrefs="3-3 3-4"/>
+            </w>
+            <w n="3-4">
+                <text>,</text>
+            </w>
+            <w n="3-5">
+                <text>εἴγε</text>
+                <refs nrefs="3-7"/>
+            </w>
+            <w n="3-6">
+                <text>Μέλισσος</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="3-7">
+                <text>δὲ</text>
+            </w>
+            <w n="3-8">
+                <text>ἐναυάρχησε</text>
+                <refs nrefs="3-9 3-10 3-11"/>
+            </w>
+            <w n="3-9">
+                <text>,</text>
+            </w>
+            <w n="3-10">
+                <text>Σωκράτης</text>
+                <refs nrefs="3-13"/>
+            </w>
+            <w n="3-11">
+                <text>δὲ</text>
+                <refs nrefs="3-12"/>
+            </w>
+            <w n="3-12">
+                <text>ἐστρατεύσατο</text>
+                <refs nrefs="3-14 3-15 3-16 3-17"/>
+            </w>
+            <w n="3-13">
+                <text>τρίς</text>
+                <refs nrefs="3-18 3-19"/>
+            </w>
+            <w n="3-14">
+                <text>.</text>
+                <refs nrefs="3-20"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>So</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>what</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>?</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="2-1">
+                <text>Were</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-2">
+                <text>not</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-3">
+                <text>the</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="2-4">
+                <text>philosophers</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-5">
+                <text>brave</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-6">
+                <text>at</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-7">
+                <text>war</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-8">
+                <text>?</text>
+                <refs nrefs="2-9"/>
+            </w>
+            <w n="3-1">
+                <text>To</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-2">
+                <text>me</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-3">
+                <text>it</text>
+                <refs nrefs="3-3"/>
+            </w>
+            <w n="3-4">
+                <text>seems</text>
+                <refs nrefs="3-3"/>
+            </w>
+            <w n="3-5">
+                <text>indeed</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="3-6">
+                <text>,</text>
+            </w>
+            <w n="3-7">
+                <text>since</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="3-8">
+                <text>Melissos</text>
+                <refs nrefs="3-6"/>
+            </w>
+            <w n="3-9">
+                <text>commanded</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="3-10">
+                <text>a</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="3-11">
+                <text>fleet</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="3-12">
+                <text>and</text>
+                <refs nrefs="3-11"/>
+            </w>
+            <w n="3-13">
+                <text>Socrates</text>
+                <refs nrefs="3-10"/>
+            </w>
+            <w n="3-14">
+                <text>was</text>
+                <refs nrefs="3-12"/>
+            </w>
+            <w n="3-15">
+                <text>in</text>
+                <refs nrefs="3-12"/>
+            </w>
+            <w n="3-16">
+                <text>the</text>
+                <refs nrefs="3-12"/>
+            </w>
+            <w n="3-17">
+                <text>army</text>
+                <refs nrefs="3-12"/>
+            </w>
+            <w n="3-18">
+                <text>three</text>
+                <refs nrefs="3-13"/>
+            </w>
+            <w n="3-19">
+                <text>times</text>
+                <refs nrefs="3-13"/>
+            </w>
+            <w n="3-20">
+                <text>.</text>
+                <refs nrefs="3-14"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>
