@@ -1,7 +1,7 @@
 <aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
-    <language lnum="L1" xml:lang="grc"/>
-    <language lnum="L2" xml:lang="grc"/>
-    <sentence n="1">
+    <language lnum="L1" xml:lang="grc" dir="ltr"/>
+    <language lnum="L2" xml:lang="grc" dir="ltr"/>
+    <sentence id="1" document_id="Harp. Aspasia - Suidas Demop. AG - AG">
         <wds lnum="L1">
             <w n="1-1">
                 <text>δοκεῖ</text>
@@ -22,7 +22,7 @@
             </w>
             <w n="1-6">
                 <text>ἐσχηκέναι</text>
-                <refs nrefs="1-15 1-16"/>
+                <refs nrefs="1-19"/>
             </w>
             <w n="1-7">
                 <text>ὁ</text>
@@ -48,7 +48,7 @@
             </w>
             <w n="1-14">
                 <text>νόθον</text>
-                <refs nrefs="1-14"/>
+                <refs nrefs="1-14 1-15 1-16"/>
             </w>
             <w n="1-15">
                 <text>ὡς</text>
@@ -122,11 +122,11 @@
             </w>
             <w n="1-15">
                 <text>οἱ</text>
-                <refs nrefs="1-6"/>
+                <refs nrefs="1-14"/>
             </w>
             <w n="1-16">
                 <text>παῖδα</text>
-                <refs nrefs="1-6"/>
+                <refs nrefs="1-14"/>
             </w>
             <w n="1-17">
                 <text>τὸν</text>
@@ -137,7 +137,7 @@
             </w>
             <w n="1-19">
                 <text>Ἀσπασίας</text>
-                <refs nrefs="1-5"/>
+                <refs nrefs="1-5 1-6"/>
             </w>
             <w n="1-20">
                 <text>τῆς</text>
